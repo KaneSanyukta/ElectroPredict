@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Prediction Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/formStyle.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h2>Smart Watch Price Prediction</h2>
+        <form id="pricePredictionForm" onsubmit="return smartWatchValidateForm()" action="/smartwatch-price-result">
+            <div class="form-row">
+                <div class="form-column">
+                    <label for="brand">Brand: <span>*</span></label>
+                    <select class="form-control" id="name" name="name" required>
+                        <option value="">Select name</option>
+                        {% for name in name %}
+                        <option value="{{ name }}">{{ name }}</option>
+                        {% endfor %}
+                    </select>
+        
+                    <label for="voice_calling">Voice Calling: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="voice_calling" name="voice_calling" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="voice_calling" name="voice_calling" value="0"><a class="radioText">No</a>
+                    </div>        
+                <label for="touch">Touch: <span>*</span></label>
+                <div class="radio-group">
+                    <input type="radio" id="touch" name="touch" value="1" required><a class="radioText">Yes</a>
+                    <input type="radio" id="touch" name="touch" value="0"><a class="radioText">No</a>
+                </div>       
+                <label for="gps">GPS: <span>*</span></label>
+                <div class="radio-group">
+                    <input type="radio" id="gps_yes" name="gps" value="1" required><a class="radioText">Yes</a>
+                    <input type="radio" id="gps_no" name="gps" value="0"><a class="radioText">No</a>
+                </div>
+       
+                    <label for="wifi">Wi-Fi: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="wifi" name="wifi" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="wifi" name="wifi" value="0"><a class="radioText">No</a>
+                    </div>  
+        
+                    <label for="blood_pressure_monitor">Blood Pressure Monitor: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="blood_pressure_monitor" name="blood_pressure_monitor" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="blood_pressure_monitor" name="blood_pressure_monitor" value="0"><a class="radioText">No</a>
+                    </div>  
+                    <label for="step_count">Step Count: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="step_count" name="step_count" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="step_count" name="step_count" value="0"><a class="radioText">No</a>
+                    </div>  
+    
+                    <label for="stop_watch">Stop Watch: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="stop_watch" name="stop_watch" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="stop_watch" name="stop_watch" value="0"><a class="radioText">No</a>
+                    </div>  
+
+                    <label for="alarm_clock">Alarm Clock: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="alarm_clock" name="alarm_clock" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="alarm_clock" name="alarm_clock" value="0"><a class="radioText">No</a>
+                    </div>  
+                </div>
+        
+                <div class="form-column">
+                    <label for="ram_gb">RAM(GB): <span>*</span></label>
+                    <select class="form-control" id="ram_gb" name="ram_gb" required>
+                        <option value="">Select ram_gb</option>
+                        {% for ram_gb in ram_gb %}
+                        <option value="{{ ram_gb }}">{{ ram_gb }}</option>
+                        {% endfor %}
+                    </select>
+    
+                    <label for="heart_rate_monitor">Heart Rate Monitor: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="heart_rate_monitor" name="heart_rate_monitor" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="heart_rate_monitor" name="heart_rate_monitor" value="0"><a class="radioText">No</a>
+                    </div>    
+                    <label for="dust_proof">Dust Proof: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="dust_proof" name="dust_proof" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="dust_proof" name="dust_proof" value="0"><a class="radioText">No</a>
+                    </div>       
+                    <label for="water_resistance">Water Resistance: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="water_resistance" name="water_resistance" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="water_resistance" name="water_resistance" value="0"><a class="radioText">No</a>
+                    </div>  
+    
+                    <label for="blood_oxygen">Blood Oxygen: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="blood_oxygen" name="blood_oxygen" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="blood_oxygen" name="blood_oxygen" value="0"><a class="radioText">No</a>
+                    </div>  
+
+                    <label for="timer">Timer: <span>*</span></label>
+                    <div class="radio-group">
+                        <input type="radio" id="timer" name="timer" value="1" required><a class="radioText">Yes</a>
+                        <input type="radio" id="timer" name="timer" value="0"><a class="radioText">No</a>
+                    </div>  
+                </div>
+            </div>
+        
+            <!-- Submit Button -->
+            <button type="submit" id="submitButton">Submit</button>
+        </form>
+        
+    </div>
+
+    <!-- Modal for error messages -->
+    <div id="errorModal" class="modal">
+        <div class="modal-content">
+            <p id="modalMessage"></p>
+            <button id="okBtn" class="modal-btn">OK</button>
+        </div>
+    </div>
+    </body>
+    <script src="{{ url_for('static', filename='js/formScript.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/getOption.js') }}"></script></html>

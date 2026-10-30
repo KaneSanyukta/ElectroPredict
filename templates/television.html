@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Prediction Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/formStyle.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h2>Television Price Prediction</h2>
+        <form id="pricePredictionForm" onsubmit="return televisionValidateForm()" action="/television-price-result">
+            <div class="form-row">
+                <div class="form-column">
+                    <label for="processor_brand">Product Name: <span>*</span></label>
+                    <select class="form-control" id="brand" name="brand" >
+                        <option value="">Select Brand</option>
+                        {% for brand in brand %}
+                        <option value="{{ brand }}">{{ brand }}</option>
+                        {% endfor %}
+                    </select>        
+                    <label for="num_processor">Picture Quality: <span>*</span></label>
+                    <select class="form-control" id="picture_quality" name="picture_quality" >
+                        <option value="">Select Picture Quality</option>
+                        {% for picture_quality in picture_quality %}
+                        <option value="{{ picture_quality }}">{{ picture_quality }}</option>
+                        {% endfor %}
+                    </select>        
+                    <label for="processor_speed">Frequency: <span>*</span></label>
+                    <select class="form-control" id="frequency" name="frequency" >
+                        <option value="">Select Screen size</option>
+                        {% for frequency in frequency %}
+                        <option value="{{ frequency }}">{{ frequency }}</option>
+                        {% endfor %}
+                    </select>
+                    <label for="sim">Stars: <span>*</span></label>
+                    <select class="form-control" id="stars" name="stars" >
+                        <option value="">Select Screen size</option>
+                        {% for stars in stars %}
+                        <option value="{{ stars }}">{{ stars }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+        
+                <div class="form-column">
+        
+                    <label for="battry_capacity">Speaker: <span>*</span></label>
+                    <select class="form-control" id="speaker" name="speaker" >
+                        <option value="">Select Screen size</option>
+                        {% for speaker in speaker %}
+                        <option value="{{ speaker }}">{{ speaker }}</option>
+                        {% endfor %}
+                    </select>
+                    <label for="resolution_height">Operating System: <span>*</span></label>
+                    <select class="form-control" id="operating_system" name="operating_system" >
+                        <option value="">Select Screen size</option>
+                        {% for operating_system in operating_system %}
+                        <option value="{{ operating_system }}">{{ operating_system }}</option>
+                        {% endfor %}
+                    </select>
+                    <label for="resolution_height">Channel: <span>*</span></label>
+                    <select class="form-control" id="channel" name="channel" >
+                        <option value="">Select Screen size</option>
+                        {% for channel in channel %}
+                        <option value="{{ channel }}">{{ channel }}</option>
+                        {% endfor %}
+                    </select>
+                    <label for="resolution_height">Rating: <span>*</span></label>
+                    <select class="form-control" id="ratings" name="ratings" >
+                        <option value="">Select Screen size</option>
+                        {% for ratings in ratings %}
+                        <option value="{{ ratings }}">{{ ratings }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+        
+            <!-- Submit Button -->
+            <button type="submit" id="submitButton">Submit</button>
+        </form>
+        
+    </div>
+
+    <!-- Modal for error messages -->
+    <div id="errorModal" class="modal">
+        <div class="modal-content">
+            <p id="modalMessage"></p>
+            <button id="okBtn" class="modal-btn">OK</button>
+        </div>
+    </div>
+    </body>
+    <script src="{{ url_for('static', filename='js/formScript.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/getOption.js') }}"></script>
+</html>

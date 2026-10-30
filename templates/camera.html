@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Prediction Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/formStyle.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h2>Camera Price Prediction</h2>
+        <form id="pricePredictionForm" onsubmit="return cameraValidateForm()" action="/camerapriceresult">
+            <div class="form-row">
+                <div class="form-column">
+                    <label for="model">Model: <span>*</span></label>
+                    <select class="form-control" id="model" name="model">
+                        <option value="">Select model</option>
+                            {% for model in model %}
+                        <option value="{{ model }}">{{ model }}</option>
+                            {% endfor %}
+                    </select>
+        
+                    <label for="max_resolution">Max Resolution: <span>*</span></label>
+                    <input type="number" id="max_resolution" name="max_resolution">
+        
+                    <label for="low_resolution">Low Resolution: <span>*</span></label>
+                    <input type="number" id="low_resolution" name="low_resolution">
+        
+                    <label for="effective_pixels">Effective Pixels: <span>*</span></label>
+                    <input type="number" id="effective_pixels" name="effective_pixels">
+        
+                    <label for="zoom_wide">Zoom Wide (W): <span>*</span></label>
+                    <input type="number" id="zoom_wide" name="zoom_wide" >
+        
+                    <label for="zoom_tele">Zoom Tele (T): <span>*</span></label>
+                    <input type="number" id="zoom_tele" name="zoom_tele" >
+    
+                </div>
+        
+                <div class="form-column">
+    
+                    <label for="normal_focus_range">Normal Focus Range: <span>*</span></label>
+                    <input type="number" id="normal_focus_range" name="normal_focus_range" >
+    
+                    <label for="macro_focus_range">Macro Focus Range: <span>*</span></label>
+                    <input type="number" id="macro_focus_range" name="macro_focus_range">
+        
+                    <label for="storage">Storage Included: <span>*</span></label>
+                    <input type="number" id="storage" name="storage">
+        
+                    <label for="weight">Weight (inc. batteries) (kg): <span>*</span></label>
+                    <input type="number" id="weight" name="weight" step="0.01">
+        
+                    <label for="dimensions">Dimensions: <span>*</span></label>
+                    <select class="form-control" id="dimensions" name="dimensions" required>
+                        <option value="">Select dimensions</option>
+                        {% for dimensions in dimensions %}
+                        <option value="{{ dimensions }}">{{ dimensions }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+        
+            <!-- Submit Button -->
+            <button type="submit" id="submitButton">Submit</button>
+        </form>
+        
+    </div>
+
+    <!-- Modal for error messages -->
+    <div id="errorModal" class="modal">
+        <div class="modal-content">
+            <p id="modalMessage"></p>
+            <button id="okBtn" class="modal-btn">OK</button>
+        </div>
+    </div>
+</body>
+    <script src="{{ url_for('static', filename='js/formScript.js') }}"></script>
+</html>

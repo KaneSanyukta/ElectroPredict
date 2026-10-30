@@ -1,0 +1,1057 @@
+,price,brand_name,model_name,washing_capacity,color,maximum_spin_speed,function_type,inbuilt_heater,washing_method
+0,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+1,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+2,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+3,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+4,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+5,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+6,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+7,12690,Haier,HTW85-186,8,Multicolor,1300,Semi Automatic Top Load,0,Pulsator
+8,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+9,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+10,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+11,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+12,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+13,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+14,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+15,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+16,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+17,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+18,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+19,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+20,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+21,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+22,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+23,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+24,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+25,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+26,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+27,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+28,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+29,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+30,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+31,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+32,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+33,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+34,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+35,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+36,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+37,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+38,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+39,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+40,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+41,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+42,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+43,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+44,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+45,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+46,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+47,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+48,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+49,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+50,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+51,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+52,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+53,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+54,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+55,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+56,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+57,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+58,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+59,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+60,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+61,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+62,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+63,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+64,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+65,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+66,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+67,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+68,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+69,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+70,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+71,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+72,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+73,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+74,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+75,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+76,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+77,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+78,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+79,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+80,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+81,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+82,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+83,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+84,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+85,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+86,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+87,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+88,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+89,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+90,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+91,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+92,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+93,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+94,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+95,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+96,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+97,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+98,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+99,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+100,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+101,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+102,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+103,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+104,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+105,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+106,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+107,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+108,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+109,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+110,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+111,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+112,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+113,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+114,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+115,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+116,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+117,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+118,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+119,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+120,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+121,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+122,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+123,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+124,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+125,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+126,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+127,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+128,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+129,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+130,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+131,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+132,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+133,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+134,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+135,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+136,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+137,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+138,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+139,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+140,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+141,10990,SAMSUNG,WT70M3000UU/TL,7,"Grey, Purple",1350,Semi Automatic Top Load,0,Pulsator
+142,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+143,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+144,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+145,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+146,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+147,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+148,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+149,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+150,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+151,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+152,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+153,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+154,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+155,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+156,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+157,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+158,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+159,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+160,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+161,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+162,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+163,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+164,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+165,10990,SAMSUNG,WT70M3000UU/TL,7,"Grey, Purple",1350,Semi Automatic Top Load,0,Pulsator
+166,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+167,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+168,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+169,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+170,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+171,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+172,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+173,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+174,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+175,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+176,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+177,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+178,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+179,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+180,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+181,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+182,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+183,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+184,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+185,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+186,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+187,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+188,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+189,10990,ONIDA,T62CGN / CRYSTAL 62,6,Grey,700,Fully Automatic Top Load,0,Pulsator Wash
+190,17490,IFB,TL-R1WH 7.0KG AQUA,7,"Grey, White",720,Fully Automatic Top Load,0,Triadic Pulsator
+191,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+192,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+193,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+194,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+195,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+196,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+197,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+198,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+199,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+200,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+201,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+202,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+203,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+204,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+205,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+206,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+207,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+208,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+209,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+210,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+211,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+212,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+213,10990,ONIDA,T62CGN / CRYSTAL 62,6,Grey,700,Fully Automatic Top Load,0,Pulsator Wash
+214,17490,IFB,TL-R1WH 7.0KG AQUA,7,"Grey, White",720,Fully Automatic Top Load,0,Triadic Pulsator
+215,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+216,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+217,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+218,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+219,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+220,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+221,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+222,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+223,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+224,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+225,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+226,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+227,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+228,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+229,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+230,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+231,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+232,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+233,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+234,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+235,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+236,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+237,10990,SAMSUNG,WT70M3000UU/TL,7,"Grey, Purple",1350,Semi Automatic Top Load,0,Pulsator
+238,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+239,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+240,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+241,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+242,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+243,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+244,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+245,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+246,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+247,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+248,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+249,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+250,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+251,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+252,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+253,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+254,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+255,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+256,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+257,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+258,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+259,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+260,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+261,10990,SAMSUNG,WT70M3000UU/TL,7,"Grey, Purple",1350,Semi Automatic Top Load,0,Pulsator
+262,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+263,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+264,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+265,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+266,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+267,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+268,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+269,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+270,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+271,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+272,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+273,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+274,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+275,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+276,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+277,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+278,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+279,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+280,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+281,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+282,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+283,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+284,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+285,10990,ONIDA,T62CGN / CRYSTAL 62,6,Grey,700,Fully Automatic Top Load,0,Pulsator Wash
+286,17490,IFB,TL-R1WH 7.0KG AQUA,7,"Grey, White",720,Fully Automatic Top Load,0,Triadic Pulsator
+287,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+288,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+289,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+290,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+291,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+292,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+293,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+294,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+295,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+296,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+297,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+298,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+299,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+300,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+301,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+302,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+303,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+304,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+305,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+306,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+307,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+308,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+309,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+310,10990,ONIDA,T62CGN / CRYSTAL 62,6,Grey,700,Fully Automatic Top Load,0,Pulsator Wash
+311,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+312,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+313,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+314,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+315,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+316,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+317,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+318,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+319,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+320,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+321,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+322,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+323,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+324,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+325,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+326,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+327,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+328,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+329,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+330,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+331,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+332,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+333,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+334,10990,ONIDA,T62CGN / CRYSTAL 62,6,Grey,700,Fully Automatic Top Load,0,Pulsator Wash
+335,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+336,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+337,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+338,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+339,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+340,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+341,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+342,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+343,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+344,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+345,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+346,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+347,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+348,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+349,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+350,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+351,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+352,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+353,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+354,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+355,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+356,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+357,10990,SAMSUNG,WT70M3000UU/TL,7,"Grey, Purple",1350,Semi Automatic Top Load,0,Pulsator
+358,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+359,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+360,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+361,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+362,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+363,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+364,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+365,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+366,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+367,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+368,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+369,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+370,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+371,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+372,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+373,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+374,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+375,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+376,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+377,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+378,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+379,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+380,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+381,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+382,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+383,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+384,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+385,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+386,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+387,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+388,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+389,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+390,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+391,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+392,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+393,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+394,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+395,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+396,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+397,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+398,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+399,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+400,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+401,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+402,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+403,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+404,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+405,10990,SAMSUNG,WT70M3000UU/TL,7,"Grey, Purple",1350,Semi Automatic Top Load,0,Pulsator
+406,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+407,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+408,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+409,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+410,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+411,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+412,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+413,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+414,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+415,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+416,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+417,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+418,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+419,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+420,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+421,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+422,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+423,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+424,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+425,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+426,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+427,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+428,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+429,10990,SAMSUNG,WT70M3000UU/TL,7,"Grey, Purple",1350,Semi Automatic Top Load,0,Pulsator
+430,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+431,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+432,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+433,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+434,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+435,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+436,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+437,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+438,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+439,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+440,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+441,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+442,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+443,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+444,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+445,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+446,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+447,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+448,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+449,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+450,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+451,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+452,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+453,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+454,10990,ONIDA,T62CGN / CRYSTAL 62,6,Grey,700,Fully Automatic Top Load,0,Pulsator Wash
+455,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+456,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+457,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+458,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+459,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+460,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+461,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+462,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+463,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+464,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+465,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+466,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+467,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+468,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+469,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+470,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+471,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+472,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+473,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+474,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+475,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+476,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+477,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+478,10990,ONIDA,T62CGN / CRYSTAL 62,6,Grey,700,Fully Automatic Top Load,0,Pulsator Wash
+479,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+480,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+481,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+482,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+483,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+484,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+485,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+486,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+487,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+488,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+489,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+490,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+491,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+492,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+493,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+494,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+495,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+496,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+497,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+498,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+499,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+500,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+501,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+502,10990,ONIDA,T62CGN / CRYSTAL 62,6,Grey,700,Fully Automatic Top Load,0,Pulsator Wash
+503,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+504,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+505,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+506,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+507,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+508,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+509,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+510,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+511,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+512,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+513,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+514,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+515,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+516,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+517,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+518,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+519,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+520,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+521,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+522,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+523,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+524,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+525,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+526,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+527,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+528,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+529,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+530,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+531,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+532,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+533,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+534,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+535,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+536,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+537,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+538,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+539,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+540,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+541,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+542,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+543,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+544,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+545,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+546,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+547,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+548,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+549,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+550,10990,ONIDA,T62CGN / CRYSTAL 62,6,Grey,700,Fully Automatic Top Load,0,Pulsator Wash
+551,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+552,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+553,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+554,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+555,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+556,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+557,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+558,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+559,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+560,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+561,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+562,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+563,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+564,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+565,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+566,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+567,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+568,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+569,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+570,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+571,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+572,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+573,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+574,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+575,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+576,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+577,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+578,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+579,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+580,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+581,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+582,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+583,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+584,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+585,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+586,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+587,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+588,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+589,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+590,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+591,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+592,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+593,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+594,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+595,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+596,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+597,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+598,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+599,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+600,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+601,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+602,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+603,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+604,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+605,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+606,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+607,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+608,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+609,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+610,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+611,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+612,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+613,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+614,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+615,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+616,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+617,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+618,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+619,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+620,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+621,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+622,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+623,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+624,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+625,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+626,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+627,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+628,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+629,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+630,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+631,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+632,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+633,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+634,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+635,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+636,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+637,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+638,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+639,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+640,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+641,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+642,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+643,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+644,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+645,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+646,10990,SAMSUNG,WT70M3000UU/TL,7,"Grey, Purple",1350,Semi Automatic Top Load,0,Pulsator
+647,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+648,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+649,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+650,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+651,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+652,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+653,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+654,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+655,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+656,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+657,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+658,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+659,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+660,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+661,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+662,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+663,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+664,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+665,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+666,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+667,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+668,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+669,10990,SAMSUNG,WT70M3000UU/TL,7,"Grey, Purple",1350,Semi Automatic Top Load,0,Pulsator
+670,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+671,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+672,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+673,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+674,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+675,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+676,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+677,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+678,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+679,12690,Haier,HTW85-186,8,Multicolor,1300,Semi Automatic Top Load,0,Pulsator
+680,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+681,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+682,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+683,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+684,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+685,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+686,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+687,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+688,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+689,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+690,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+691,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+692,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+693,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+694,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+695,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+696,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+697,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+698,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+699,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+700,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+701,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+702,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+703,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+704,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+705,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+706,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+707,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+708,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+709,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+710,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+711,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+712,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+713,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+714,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+715,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+716,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+717,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+718,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+719,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+720,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+721,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+722,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+723,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+724,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+725,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+726,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+727,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+728,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+729,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+730,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+731,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+732,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+733,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+734,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+735,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+736,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+737,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+738,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+739,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+740,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+741,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+742,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+743,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+744,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+745,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+746,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+747,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+748,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+749,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+750,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+751,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+752,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+753,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+754,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+755,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+756,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+757,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+758,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+759,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+760,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+761,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+762,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+763,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+764,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+765,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+766,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+767,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+768,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+769,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+770,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+771,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+772,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+773,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+774,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+775,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+776,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+777,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+778,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+779,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+780,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+781,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+782,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+783,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+784,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+785,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+786,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+787,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+788,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+789,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+790,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+791,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+792,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+793,8950,Haier,HTW65-187BO,6,"White, Maroon",1300,Semi Automatic Top Load,0,Agitator
+794,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+795,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+796,17990,SAMSUNG,WA70BG4441YYTL,7,Grey,700,Fully Automatic Top Load,0,Gentle
+797,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+798,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+799,13990,Haier,HTW90-1159,9,"White, Blue",1300,Semi Automatic Top Load,0,Dual Color Vortex Pulsator Wash
+800,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+801,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+802,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+803,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+804,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+805,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+806,13690,Whirlpool,MAGIC CLEAN 6.0 GENX GREY 5YMW,6,Grey,740,Fully Automatic Top Load,0,Agipellar
+807,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+808,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+809,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+810,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+811,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+812,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+813,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+814,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+815,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+816,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+817,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+818,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+819,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+820,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+821,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+822,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+823,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+824,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+825,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+826,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+827,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+828,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+829,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+830,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+831,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+832,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+833,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+834,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+835,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+836,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+837,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+838,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+839,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+840,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+841,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+842,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+843,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+844,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+845,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+846,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+847,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+848,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+849,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+850,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+851,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+852,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+853,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+854,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+855,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+856,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+857,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+858,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+859,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+860,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+861,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+862,17490,IFB,TL-R1WH 7.0KG AQUA,7,"Grey, White",720,Fully Automatic Top Load,0,Triadic Pulsator
+863,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+864,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+865,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+866,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+867,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+868,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+869,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+870,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+871,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+872,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+873,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+874,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+875,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+876,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+877,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+878,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+879,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+880,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+881,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+882,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+883,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+884,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+885,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+886,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+887,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+888,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+889,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+890,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+891,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+892,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+893,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+894,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+895,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+896,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+897,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+898,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+899,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+900,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+901,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+902,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+903,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+904,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+905,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+906,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+907,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+908,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+909,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+910,17490,IFB,TL-R1WH 7.0KG AQUA,7,"Grey, White",720,Fully Automatic Top Load,0,Triadic Pulsator
+911,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+912,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+913,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+914,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+915,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+916,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+917,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+918,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+919,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+920,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+921,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+922,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+923,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+924,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+925,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+926,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+927,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+928,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+929,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+930,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+931,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+932,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+933,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+934,17490,IFB,TL-R1WH 7.0KG AQUA,7,"Grey, White",720,Fully Automatic Top Load,0,Triadic Pulsator
+935,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+936,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+937,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+938,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+939,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+940,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+941,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+942,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+943,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+944,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+945,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+946,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+947,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+948,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+949,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+950,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+951,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+952,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+953,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+954,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+955,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+956,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+957,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+958,17490,IFB,TL-R1WH 7.0KG AQUA,7,"Grey, White",720,Fully Automatic Top Load,0,Triadic Pulsator
+959,12490,Whirlpool,MAGIC CLEAN 8.0 GREY DAZZLE (10YR) NH,8,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+960,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+961,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+962,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+963,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+964,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+965,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+966,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+967,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+968,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+969,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+970,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+971,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+972,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+973,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+974,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+975,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+976,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+977,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+978,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+979,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+980,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+981,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+982,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+983,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+984,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+985,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+986,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+987,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+988,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+989,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+990,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+991,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+992,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+993,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+994,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+995,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+996,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+997,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+998,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+999,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+1000,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+1001,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+1002,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+1003,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+1004,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+1005,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+1006,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+1007,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+1008,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+1009,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+1010,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+1011,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+1012,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+1013,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+1014,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+1015,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+1016,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+1017,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+1018,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+1019,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+1020,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+1021,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+1022,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+1023,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+1024,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+1025,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+1026,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+1027,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+1028,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+1029,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+1030,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+1031,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle
+1032,15790,SAMSUNG,WA70A4002GS/TL,7,Silver,680,Fully Automatic Top Load,0,Pulsator
+1033,7790,realme TechLife,RMSA705NNNDW,7,"White, Black",1400,Semi Automatic Top Load,0,Pulsator
+1034,12290,realme TechLife,RMFA75A5G,7,Grey,700,Fully Automatic Top Load,0,Pulsator
+1035,11990,LG,P7020NGAZ,7,"Grey, White",1350,Semi Automatic Top Load,0,Normal Pulsator Wash
+1036,12990,Haier,HWM65-FE,6,"Brown, Grey",800,Fully Automatic Top Load,0,Pulsator
+1037,22990,SAMSUNG,WW60R20GLMA/TL,6,White,1000,Fully Automatic Front Load,1,Tumble
+1038,6790,MarQ by Flipkart,MQSA60H5M,6,"White, Maroon",1350,Semi Automatic Top Load,0,Pulsator
+1039,25090,Midea,MF100W70/T-IN,7,Grey,1200,Fully Automatic Front Load,1,Tumble Wash
+1040,15240,Whirlpool,MAGIC CLEAN 7.0 GENX GREY 5YMW,7,Grey,740,Fully Automatic Top Load,0,Agipellar
+1041,9990,realme TechLife,RMSA855NNNDG,8,"Grey, Black",1400,Semi Automatic Top Load,0,Pulsator
+1042,7190,MarQ by Flipkart,MQSA70H5M,7,"Blue, White",1350,Semi Automatic Top Load,0,Pulsator
+1043,13190,Midea,MA100W70/G-IN,7,Grey,680,Fully Automatic Top Load,0,Pulsator
+1044,17490,LG,T70SKSF1Z,7,Silver,700,Fully Automatic Top Load,0,Pulsator
+1045,31990,IFB,Senator Neo VXS 8012,8,White,1200,Fully Automatic Front Load,1,Tumble Wash
+1046,29990,LG,FHM1207SDM,7,"Black, Grey",1200,Fully Automatic Front Load,1,Tumble
+1047,25090,SAMSUNG,WA90BG4542BDTL,9,Grey,700,Fully Automatic Top Load,0,Gentle
+1048,21990,IFB,DIVA AQUA VSS 6008,6,White,800,Fully Automatic Front Load,1,Tumble Wash
+1049,15990,SAMSUNG,WA65T4262GG/TL,6,Grey,700,Fully Automatic Top Load,0,Pulsator
+1050,8690,realme TechLife,RMSA755NNNDG,7,"Black, Grey",1400,Semi Automatic Top Load,0,Pulsator
+1051,19990,SAMSUNG,WA80BG4441BGTL,8,Grey,700,Fully Automatic Top Load,0,Gentle
+1052,8990,SAMSUNG,WT60R2000LL/TL,6,"White, Grey, Purple",1300,Semi Automatic Top Load,0,Pulsator
+1053,7990,ONIDA,S70GR,7,"Black, Grey",1300,Semi Automatic Top Load,0,Pulsator
+1054,8990,Whirlpool,MAGIC CLEAN 60I GREY DAZZLE,6,"Black, Grey",1400,Semi Automatic Top Load,0,Impeller
+1055,16990,SAMSUNG,WA65T4262NS/TL,6,Silver,700,Fully Automatic Top Load,0,Gentle

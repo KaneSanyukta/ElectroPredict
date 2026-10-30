@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Prediction Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/formStyle.css') }}">
+</head>
+<body>
+
+<div class="form-container">
+    <h2>Laptop Price Prediction</h2>
+    <form id="pricePredictionForm" onsubmit="return laptopValidateForm()" action="/laptoppriceresult">
+        <div class="form-row">
+            <div class="form-column">
+                <!-- brand,ram_gb,ram_type,ssd,hdd,graphic_card_gb,weight,warranty,Touchscreen,Price,os,processor -->
+                <label for="brand">Brand: <span>*</span></label>
+                <select class="form-control" id="brand" name="brand" onchange="updateOptions()">
+                    <option value="">Select Brand</option>
+                    {% for brand in brand %}
+                    <option value="{{ brand }}" {% if selected_brand == brand %}selected{% endif %}>{{ brand }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="ram_gb">RAM (GB): <span>*</span></label>
+                <select class="form-control" id="ram_gb" name="ram_gb" >
+                    <option value="">Select RAM</option>
+                        {% for ram_gb in ram_gb %}
+                        <option value="{{ ram_gb }}">{{ ram_gb }}</option>
+                        {% endfor %}
+                </select>
+
+                <label for="ram_type">RAM Type: <span>*</span></label>
+                <select class="form-control" id="ram_type" name="ram_type" >
+                    <option value="">Select RAM TYPE</option>
+                        {% for ram_type in ram_type %}
+                        <option value="{{ ram_type }}">{{ ram_type }}</option>
+                        {% endfor %}
+                </select>
+
+                <label for="ssd">SSD : <span>*</span></label>
+                <select class="form-control" id="ssd" name="ssd" >
+                    <option value="">Select SSD</option>
+                        {% for ssd in ssd %}
+                        <option value="{{ ssd }}">{{ ssd }}</option>
+                        {% endfor %}
+                </select>
+
+                <label for="hdd">HDD (GB): <span>*</span></label>
+                <select class="form-control" id="hdd" name="hdd" >
+                    <option value="">Select HDD</option>
+                    {% for hdd in hdd %}
+                    <option value="{{ hdd }}">{{ hdd }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="os">Operating System: <span>*</span></label>
+                <select class="form-control" id="os" name="os" >
+                    <option value="">Select OS</option>
+                    {% for os in os %}
+                    <option value="{{ os }}">{{ os }}</option>
+                    <option value="{{ os }}" {% if os_item == selected_brand %}selected{% endif %}>{{ os }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-column">
+                <label for="processor">Processor:</label>
+                <select class="form-control" id="processor" name="processor" >
+                    <option value="">Select Processor</option>
+                    {% for processor in processor %}
+                    <option value="{{ processor }}">{{ processor }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="graphic_card_gb">Graphic Card (GB):</label>
+                <select class="form-control" id="graphic_card_gb" name="graphic_card_gb" >
+                    <option value="">Select Graphics Card</option>
+                    {% for graphic_card_gb in graphic_card_gb %}
+                    <option value="{{ graphic_card_gb }}">{{ graphic_card_gb }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="weight">Weight (kg): <span>*</span></label>
+                <select class="form-control" id="weight" name="weight" >
+                    <option value="">Select Weight</option>
+                    {% for weight in weight %}
+                    <option value="{{ weight }}">{{ weight }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="warranty">Warranty (Years): <span>*</span></label>
+                <select class="form-control" id="warranty" name="warranty" >
+                    <option value="">Select Years</option>
+                    {% for warranty in warranty %}
+                    <option value="{{ warranty }}">{{ warranty }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="Touchscreen">Touchscreen (Yes/No): <span>*</span></label>
+                <input type="radio" name="Touchscreen" id="inbuilt_heater" value="1"><a class="radioText">Yes</a>
+                <input type="radio" name="Touchscreen" id="heater" class="no" value="0" checked="true"><a class="radioText">No</a>
+            </div>
+        </div>
+
+        <!-- Submit Button -->
+        <button id="submitButton" type="submit">Submit</button>
+    </form>
+</div>
+<!-- Modal for error messages -->
+<div id="errorModal" class="modal">
+    <div class="modal-content">
+        <p id="modalMessage"></p>
+        <button id="okBtn" class="modal-btn">OK</button>
+    </div>
+</div>
+</body>
+<script src="{{ url_for('static', filename='js/formScript.js') }}"></script>
+<script src="{{ url_for('static', filename='js/getOption.js') }}"></script>
+</html>

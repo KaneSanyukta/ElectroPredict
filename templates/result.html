@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/outputStyles.css') }}">
+</head>
+<body>
+    <div class="video-container">
+        <video autoplay muted loop id="background-video">
+            <source src="{{ url_for('static', filename='video/background.mp4') }}" type="video/mp4">
+        </video>
+    </div>
+    <div class="container">
+        <div id="loading" class="loading"></div>
+        <p id="message" class="message">Predicting price of your device...</p>
+    </div>
+    <script>
+        let predictionResult = "{{ result }}"; 
+    </script>
+    <script src="{{ url_for('static', filename='js/outputPage.js') }}"></script>
+</body>
+</html>

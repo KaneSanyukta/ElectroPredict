@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Prediction Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/formStyle.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h2>Refrigerators Price Prediction</h2>
+        <form id="pricePredictionForm" onsubmit="return refrigeratorValidateForm()"action="/fridge-price-result">
+            <div class="form-row">
+                <div class="form-column">
+                    <label for="brand">Brand: <span>*</span></label>
+                    <select class="form-control" id="brand" name="brand" >
+                        {% for brand in brand %}
+                        <option value="{{ brand }}">{{ brand }}</option>
+                        {% endfor %}
+                    </select>
+        
+                    <label for="capacity">Capacity: <span>*</span></label>
+                    <select class="form-control" id="capacity" name="capacity" >
+                        {% for capacity in capacity %}
+                        <option value="{{ capacity }}">{{ capacity }}</option>
+                        {% endfor %}
+                    </select>
+        
+                    <label for="energy_ratings">Energy Ratings: </label>
+                    <select class="form-control" id="energy_rating" name="energy_rating" >
+                        {% for energy_rating in energy_rating %}
+                        <option value="{{ energy_rating }}">{{ energy_rating }}</option>
+                        {% endfor %}
+                    </select>
+        
+                    <label for="type">Type: <span>*</span></label>
+                    <select class="form-control" id="type1" name="type1" >
+                        {% for type1 in type1 %}
+                        <option value="{{ type1 }}">{{ type1 }}</option>
+                        {% endfor %}
+                    </select>
+        
+                    <label for="color">Colour: </label>
+                    <select class="form-control" id="color" name="color" >
+                        {% for color in color %}
+                        <option value="{{ color }}">{{ color }}</option>
+                        {% endfor %}
+                    </select>
+    
+                </div>
+        
+                <div class="form-column">
+    
+                    <label for="material">Material: <span>*</span></label>
+                    <select class="form-control" id="material" name="material" >
+                        {% for material in material %}
+                        <option value="{{ material }}">{{ material }}</option>
+                        {% endfor %}
+                    </select>    
+                    <label for="text_feature">Features: <span>*</span></label>
+                    <select class="form-control" id="features" name="features" >
+                        {% for features in features %}
+                        <option value="{{ features }}">{{ features }}</option>
+                        {% endfor %}
+                    </select>        
+                    <label for="random_numeric_features">Warranty Period: <span>*</span></label>
+                    <select class="form-control" id="warranty_period" name="warranty_period" >
+                        {% for warranty_period in warranty_period %}
+                        <option value="{{ warranty_period }}">{{ warranty_period }}</option>
+                        {% endfor %}
+                    </select>
+    
+                    <label for="category">Country of Manufacturing: <span>*</span></label>
+                    <select class="form-control" id="country_of_manufacture" name="country_of_manufacture" >
+                        {% for country_of_manufacture in country_of_manufacture %}
+                        <option value="{{ country_of_manufacture }}">{{ country_of_manufacture }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+        
+            <!-- Submit Button -->
+            <button type="submit" id="submitButton">Submit</button>
+        </form>
+        
+    </div>
+
+    <!-- Modal for error messages -->
+    <div id="errorModal" class="modal">
+        <div class="modal-content">
+            <p id="modalMessage"></p>
+            <button id="okBtn" class="modal-btn">OK</button>
+        </div>
+    </div>
+</body>
+    <script src="{{ url_for('static', filename='js/formScript.js') }}"></script>
+</html>

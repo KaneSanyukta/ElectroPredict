@@ -1,0 +1,14 @@
+.txt{
+    text-decoration: none;
+    font-size: 14px;
+    color: #ffffff;
+}
+.txt:hover{
+    color:#555555 ;
+}
+#robo,#logo{
+    visibility:hidden !important;
+}
+#loginForm{
+    margin-top: 50px;
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Prediction Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/formStyle.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h2>Washing Machine Price Prediction</h2>
+        <form id="pricePredictionForm" onsubmit="return washingMachineValidateForm()"action="/washing-machine-price-result">
+            <div class="form-row">
+                <div class="form-column">
+                    <label for="brand">Brand: <span>*</span></label>
+                    <select class="form-control" id="brand" name="brand_name">
+                        <option value="">Select Brand</option>
+                            {% for brand_name in brand_name %}
+                        <option value="{{ brand_name }}">{{ brand_name }}</option>
+                            {% endfor %}
+                    </select>
+        
+                    <label for="product_name">Product Name: <span>*</span></label>
+                    <select class="form-control" id="model_name" name="model">
+                        <option value="">Select Name</option>
+                            {% for model_name in model_name %}
+                        <option value="{{ model_name }}">{{ model_name }}</option>
+                            {% endfor %}
+                    </select>
+        
+                    <label for="capacity">Washing Capacity: <span>*</span></label>
+                    <input type="number" id="capacity" name="capacity" placeholder="Enter range between 0-7">
+        
+                    <label for="color">Color: <span>*</span></label>
+                    <select class="form-control" id="model" name="color">
+                        <option value="">Select Colour</option>
+                            {% for color in color %}
+                        <option value="{{ color }}">{{ color }}</option>
+                            {% endfor %}
+                    </select>
+                </div>
+        
+                <div class="form-column">
+        
+                    <label for="maximum_spin">Maximum Spin Speed: <span>*</span></label>
+                    <select class="form-control" id="maximum_spin" name="maximum_spin">
+                        <option value="">Select Maximum Spin Speen</option>
+                            {% for maximum_spin_speed in maximum_spin_speed %}
+                        <option value="{{ maximum_spin_speed }}">{{ maximum_spin_speed }}</option>
+                            {% endfor %}
+                    </select>
+    
+                    <label for="fuction_type">Fuction Type: <span>*</span></label>
+                    <select class="form-control" id="function_type" name="function_type">
+                        <option value="">Select Type</option>
+                            {% for function_type in function_type %}
+                        <option value="{{ function_type }}">{{ function_type }}</option>
+                            {% endfor %}
+                    </select>
+
+                    <label for="washing_method">Washing Method: <span>*</span></label>
+                    <select class="form-control" id="washing_method" name="washing_method">
+                        <option value="">Select Method</option>
+                            {% for washing_method in washing_method %}
+                        <option value="{{ washing_method }}">{{ washing_method }}</option>
+                            {% endfor %}
+                    </select>
+    
+                    <label for="inbuilt_heater">Inbuilt Heater: <span>*</span></label>
+                    <input type="radio" name="inbuilt_heater" id="inbuilt_heater" value="1"><a class="radioText">Yes</a>
+                    <input type="radio" name="inbuilt_heater" id="heater" class="no" value="0" checked="true"><a class="radioText">No</a>
+                </div>
+            </div>
+        
+            <!-- Submit Button -->
+            <button type="submit" id="submitButton">Submit</button>
+        </form>
+        
+    </div>
+
+    <!-- Modal for error messages -->
+    <div id="errorModal" class="modal">
+        <div class="modal-content">
+            <p id="modalMessage"></p>
+            <button id="okBtn" class="modal-btn">OK</button>
+        </div>
+    </div>
+</body>
+    <script src="{{ url_for('static', filename='js/formScript.js') }}"></script>
+</html>

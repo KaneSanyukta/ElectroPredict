@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Prediction Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/formStyle.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h2>Smart Phone Price Prediction</h2>
+        <form id="pricePredictionForm" onsubmit="return cellphoneValidateForm()" action="/cellphone-price-result">
+            <div class="form-row">
+                <div class="form-column">
+                    <label for="brand">Brand: <span>*</span></label>
+                    <select class="form-control" id="brand" name="brand" >
+                        <option value="">Select Brand</option>
+                        {% for brand in brand %}
+                        <option value="{{ brand }}">{{ brand }}</option>
+                        {% endfor %}
+                    </select>
+        
+                    <label for="model">Model Name: <span>*</span></label>
+                    <select class="form-control" id="model" name="model" >
+                        <option value="">Select Model</option>
+                        {% for model in model %}
+                        <option value="{{ model }}">{{ model }}</option>
+                        {% endfor %}
+                    </select>
+
+                    <label for="storage">Stroage: <span>*</span></label>
+                    <select class="form-control" id="storage" name="storage" >
+                        <option value="">Select Storage</option>
+                        {% for storage in storage %}
+                        <option value="{{ storage }}">{{ storage }}</option>
+                        {% endfor %}
+                    </select>                    
+                
+                    <label for="ram">RAM: <span>*</span></label>
+                    <select class="form-control" id="ram" name="ram" >
+                        <option value="">Select RAM</option>
+                        {% for ram in ram %}
+                        <option value="{{ ram }}">{{ ram }}</option>
+                        {% endfor %}
+                    </select>                    
+        
+                <div class="form-column">
+                    <label for="primary_front_camera">Camera: <span>*</span></label>
+                    <select class="form-control" id="camera" name="camera" >
+                        <option value="">Select Camera</option>
+                        {% for camera in camera %}
+                        <option value="{{ camera }}">{{ camera }}</option>
+                        {% endfor %}
+                    </select>
+        
+                    <label for="battery_capacity">Battry Capacity: <span>*</span></label>
+                    <select class="form-control" id="battery_capacity" name="battery_capacity" >
+                        <option value="">Select Battry Capacity</option>
+                        {% for battery_capacity in battery_capacity %}
+                        <option value="{{ battery_capacity }}">{{ battery_capacity }}</option>
+                        {% endfor %}
+                    </select>
+
+                    <label for="screen_size">Screen Size: <span>*</span></label>
+                    <select class="form-control" id="screen_size" name="screen_size" >
+                        <option value="">Select Screen size</option>
+                        {% for screen_size in screen_size %}
+                        <option value="{{ screen_size }}">{{ screen_size }}</option>
+                        {% endfor %}
+                    </select>
+                    
+                </div>
+            </div>
+        
+            <!-- Submit Button -->
+            <button type="submit" id="submitButton">Submit</button>
+        </form>
+        
+    </div>
+
+    <!-- Modal for error messages -->
+    <div id="errorModal" class="modal">
+        <div class="modal-content">
+            <p id="modalMessage"></p>
+            <button id="okBtn" class="modal-btn">OK</button>
+        </div>
+    </div>
+    </body>
+    <script src="{{ url_for('static', filename='js/formScript.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/getOption.js') }}"></script>
+</html>
